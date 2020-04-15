@@ -1,10 +1,10 @@
 :root {
-    --background-dark-primary: #141414 !important;		
-    --background-dark-secondary: #111111 !important;		
-    --background-dark-tertiary: #0c0c0c !important;	
-    --background-primary: #141414 !important;	
-    --background-secondary: #111111 !important;	
-    --background-tertiary: #0c0c0c !important;	
+    --background-dark-primary: #282A36 !important;		
+    --background-dark-secondary: #21222C !important;		
+    --background-dark-tertiary: #191A21 !important;	
+    --background-primary: #282A36 !important;	
+    --background-secondary: #21222C !important;	
+    --background-tertiary: #191A21 !important;	
     --background-floating: black !important;
     --background-modifier-hover: rgba(50,50,50,0.16) !important;	
     --background-modifier-active: rgba(50,50,50,0.24) !important;	
@@ -30,8 +30,8 @@
 }
 
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
-    background-color: #111111; !important;
-    border: 4px solid #141414 !important;
+    background-color: #21222C; !important;
+    border: 4px solid #282A36 !important;
     border-radius: 8px !important;
 }
 
@@ -59,7 +59,7 @@
 }
 
 .scrollableContainer-2NUZem::-webkit-scrollbar-thumb {
-    background-color: #111111; !important;
+    background-color: #21222C; !important;
     border-color: transparent; !important;
 }
 	
@@ -68,7 +68,7 @@
 }
 
 .theme-dark .bodyInner-245q0L, .theme-dark .footer-1fjuF6 {
-    background-color: #0c0c0c;
+    background-color: #191A21;
     color: hsla(0,0%,100%,.8);
 }
 
@@ -578,7 +578,7 @@
 }
 
 .menu-Sp6bN1 {
-	background-color: #0c0c0c !important;
+	background-color: #191A21 !important;
 	border: 2px solid white;
 }
 
@@ -746,7 +746,7 @@
 }
 
 .theme-dark .theme-light .footer-3rDWdC {
-    background: #111111 !important;
+    background: #21222C !important;
     box-shadow: none;
 }
 
@@ -1139,7 +1139,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .theme-dark .notches-1sAcEM.gray-3_LNYR {
-    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='%23141414'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E")
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='%23282A36'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E")
 }
 
 .theme-dark .perksModal-fSYqOq {
